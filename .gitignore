@@ -1,0 +1,48 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+*.py,cover
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.pot
+
+# Django-related
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+*.log
+
+# Environment-related
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+
+# Database-related (for different databases like PostgreSQL, MySQL, etc.)
+*.db
+*.sqlite
+*.sql
+*.bak
+*.tar
+*.tar.gz
+*.pgdump
+*.dump
+
+# Editor and IDE-related (since they sometimes interfere with the environment)
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
